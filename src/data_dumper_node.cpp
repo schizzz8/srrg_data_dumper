@@ -21,6 +21,7 @@
 #include <sensor_msgs/Image.h>
 #include <lucrezio_simulation_environments/LogicalImage.h>
 #include <gazebo_msgs/GetModelState.h>
+#include <gazebo_msgs/GetLinkState.h>
 
 typedef std::vector<lucrezio_simulation_environments::Model> Models;
 
